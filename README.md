@@ -23,6 +23,16 @@
 
 # Screenshots 📷
 
+# USAGE
+![ddddd](https://github.com/Dhanush2468/valorant-tracker-discord-bot/assets/112778628/32e32629-6f33-441f-b401-dc41ffa2cf0d)
+
+
+
+
+# OUTPUT
+![sssssss](https://github.com/Dhanush2468/valorant-tracker-discord-bot/assets/112778628/9172224d-27c5-4b1b-b481-78862671a85f)
+![dasd](https://github.com/Dhanush2468/valorant-tracker-discord-bot/assets/112778628/7af597b0-8c46-4d23-9e4e-7e574a4cb8b9)
+
 
 
 
